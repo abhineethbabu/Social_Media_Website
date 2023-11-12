@@ -7,7 +7,8 @@
 ![Screenshot (43)](https://github.com/abhineethbabu/Social_Media_Website/assets/91684785/0ad31fb8-a5cf-448e-9fea-059ac74f38e7)
 
   => Dark Mode
-![Screenshot (34)](https://github.com/abhineethbabu/Social_Media_Website/assets/91684785/88658814-c1ee-4582-893b-1789b7791105)
+![Screenshot (34)](https://github.com/abhineethbabu/Social_Media_Website/assets/91684785/c9d8581e-d36a-4fb3-8c86-f4c5e00689fa)
+
 
 
 New User Registration Page :
