@@ -4,36 +4,35 @@
  Log IN page :
 
   => Light Mode
-![Screenshot (43)](https://github.com/abhineethbabu/Social_Media_Website/assets/91684785/0ad31fb8-a5cf-448e-9fea-059ac74f38e7)
+![Screenshot (43)](https://github.com/abhineethbabu/Social_Media_Website/assets/91684785/b5668622-d2de-4b13-8108-1e52e201f425)
 
   => Dark Mode
 ![Screenshot (34)](https://github.com/abhineethbabu/Social_Media_Website/assets/91684785/c9d8581e-d36a-4fb3-8c86-f4c5e00689fa)
 
 
-
 New User Registration Page :
 
   => Light Mode
-![Screenshot 44](https://github.com/abhineethbabu/Social_Media_Website/assets/91684785/27ccfa0b-1780-4f91-9e86-274c274cf79d)
-<img title="a title" alt="Alt text" src="https://www.google.com/logos/doodles/2023/celebrating-allan-haozous-houser-6753651837110055.2-2x.png">
+![Screenshot (44)](https://github.com/abhineethbabu/Social_Media_Website/assets/91684785/dafbbf60-f74c-4507-ba51-b01ccad39712)
 
   => Dark Mode
-![Screenshot (35)](https://github.com/abhineethbabu/Social_Media_Website/assets/91684785/a8e0ad17-3d73-4e97-9c04-94478d5dbabc)
+![Screenshot (35)](https://github.com/abhineethbabu/Social_Media_Website/assets/91684785/37f3e876-c858-4f6f-8226-2f459f7a326d)
 
 
 Home Page After SuccessFull login :
 
   => Light Mode
-![Screenshot (41)](https://github.com/abhineethbabu/Social_Media_Website/assets/91684785/50d67e2f-a080-4578-8c08-46a8e80d659d)
+![Screenshot (41)](https://github.com/abhineethbabu/Social_Media_Website/assets/91684785/9c878ab4-dedc-4ce9-8e74-a28f01e62a74)
 
   => Dark Mode
-![Screenshot (36)](https://github.com/abhineethbabu/Social_Media_Website/assets/91684785/e9a961b9-074c-4242-b02e-201e5619443f)
+![Screenshot (36)](https://github.com/abhineethbabu/Social_Media_Website/assets/91684785/4b436c44-c631-4525-8922-50ee398d09f4)
 
 
 Profile Page After Login :
 
   => Light Mode
-![Screenshot (42)](https://github.com/abhineethbabu/Social_Media_Website/assets/91684785/c86fb974-61a1-408e-a58d-7eb7c8e04738)
+![Screenshot (42)](https://github.com/abhineethbabu/Social_Media_Website/assets/91684785/0663646f-92d2-4429-a428-26275cf3313a)
 
   => Dark Mode
-![Screenshot (39)](https://github.com/abhineethbabu/Social_Media_Website/assets/91684785/88a32b1f-6010-474a-aba4-7eba6bb7754f)
+![Screenshot (38)](https://github.com/abhineethbabu/Social_Media_Website/assets/91684785/0e134afa-3bda-4da7-8a25-a04c076fcb36)
+
