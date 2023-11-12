@@ -14,7 +14,7 @@ New User Registration Page :
 
   => Light Mode
 ![Screenshot 44](https://github.com/abhineethbabu/Social_Media_Website/assets/91684785/27ccfa0b-1780-4f91-9e86-274c274cf79d)
-<img title="a title" alt="Alt text" src="https://github.com/abhineethbabu/Social_Media_Website/assets/91684785/27ccfa0b-1780-4f91-9e86-274c274cf79d">
+<img title="a title" alt="Alt text" src="blob:null/a1d76824-53e5-431a-8289-562cf808925d">
 
   => Dark Mode
 ![Screenshot (35)](https://github.com/abhineethbabu/Social_Media_Website/assets/91684785/a8e0ad17-3d73-4e97-9c04-94478d5dbabc)
